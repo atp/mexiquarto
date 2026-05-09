@@ -1,0 +1,41 @@
+
+---
+title: "O Pêndulo Interrompido"
+lang: pt-BR
+lightbox:
+  match: auto
+  effect: fade
+ 
+format:
+  html:
+    other-links:
+      - text: Experimento e Imagens
+        href: .
+    toc: true
+    author: Lavínia e Ewout
+    subtitle: Uma Atividade Científica Escolar
+
+---
+
+
+## GuiA Parte 1: conservação de energia mecânica
+
+Assiste este vídeo:
+{{< video https://atp.usp.br/dados/share/overview.mp4
+    title="O Pêndulo Interrompido"
+    start="17"
+    aspect-ratio="16x9" 
+>}}
+
+::: {.column-margin .callout-note collapse="false"}
+## Motivação
+O objetivo desta primeira parte é apresentar a situação-problema, destacando algumas estratégias e conceitos necessários para avançar tranquilamente pela atividade. 
+:::
+
+{{< lipsum 2>}}
+
+## Parte 2: dinâmica, forças e vínculo
+{{< lipsum 2>}}
+
+## Parte 3: a descrição do movimento
+{{< lipsum 2>}}

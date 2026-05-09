@@ -1,0 +1,10 @@
+*~
+#
+/.quarto/
+/_site/
+/_book/
+/_freeze/
+*.html
+*.pdf
+*.mp4
+*.docx

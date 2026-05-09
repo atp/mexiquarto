@@ -1,0 +1,67 @@
+---
+title: "O Pêndulo Interrompido"
+lang: pt-BR
+lightbox:
+  match: auto
+  effect: fade
+ 
+format:
+  html:
+    other-links:
+      - text: Guia Ensino Médio
+        href: guia1.html
+      - text: Guia USP
+        href: guia2.html
+        icon: file
+    toc: true
+    author: Lavínia e Ewout
+    subtitle: Uma Atividade Científica Escolar
+
+---
+
+## Apresentação
+
+{{< lipsum 1 >}}
+
+::: {.layout-ncols=2}
+{{< placeholder 300 >}}
+{{< placeholder 300 >}}
+
+:::
+## Material e gravações
+
+### Vídeos
+
+## Imagens
+
+### Conjunto 1
+
+
+![Img1](imagens/take11_0001.jpg){group="conjunto1" width=20% .lightbox}
+![Img2](imagens/take11_0002.jpg){group="conjunto1" width=20% .lightbox}
+![Img3](imagens/take11_0003.jpg){group="conjunto1" width=20% .lightbox}
+![Img4](imagens/take11_0004.jpg){group="conjunto1" width=20% .lightbox}
+![Img5](imagens/take11_0005.jpg){group="conjunto1" width=20% .lightbox}
+![Img6](imagens/take11_0006.jpg){group="conjunto1" width=20% .lightbox}
+![Img7](imagens/take11_0007.jpg){group="conjunto1" width=20% .lightbox}
+![Img8](imagens/take11_0008.jpg){group="conjunto1" width=20% .lightbox}
+![Img9](imagens/take11_0009.jpg){group="conjunto1" width=20% .lightbox}
+![Img10](imagens/take11_0010.jpg){group="conjunto1" width=20% .lightbox}
+![Img11](imagens/take11_0011.jpg){group="conjunto1" width=20% .lightbox}
+![Img12](imagens/take11_0012.jpg){group="conjunto1" width=20% .lightbox}
+ 
+
+### Conjunto 2
+
+![Img13](imagens/take11_0013.jpg){group="conjunto2" width=20% .lightbox}
+![Img14](imagens/take11_0014.jpg){group="conjunto2" width=20% .lightbox}
+![Img15](imagens/take11_0015.jpg){group="conjunto2" width=20% .lightbox}
+![Img16](imagens/take11_0016.jpg){group="conjunto2" width=20% .lightbox}
+![Img17](imagens/take11_0017.jpg){group="conjunto2" width=20% .lightbox}
+![Img18](imagens/take11_0018.jpg){group="conjunto2" width=20% .lightbox}
+![Img19](imagens/take11_0019.jpg){group="conjunto2" width=20% .lightbox}
+![Img20](imagens/take11_0020.jpg){group="conjunto2" width=20% .lightbox}
+![Img21](imagens/take11_0021.jpg){group="conjunto2" width=20% .lightbox}
+![Img22](imagens/take11_0022.jpg){group="conjunto2" width=20% .lightbox}
+![Img23](imagens/take11_0023.jpg){group="conjunto2" width=20% .lightbox}
+![Img24](imagens/take11_0024.jpg){group="conjunto2" width=20% .lightbox}

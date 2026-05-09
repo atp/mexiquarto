@@ -1,0 +1,10 @@
+---
+title: "Mexi"
+format:
+  html: 
+    toc: true
+    author: Equipe Mexi
+    subtitle: Atividade Científicas Escolares
+---
+
+# Índice do site
