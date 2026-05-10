@@ -4,7 +4,12 @@
 /_site/
 /_book/
 /_freeze/
+*.jpg
+*.png
+*.svg
 *.html
 *.pdf
 *.mp4
 *.docx
+
+**/*.quarto_ipynb
