@@ -1,0 +1,19 @@
+.gfadeIn {
+    animation: gfadeIn .5s ease;
+}
+.gfadeOut {
+    animation: gfadeOut .5s ease;
+}
+.gslideOutLeft {
+    animation: gslideOutLeft 0 ease;
+}
+.gslideInLeft {
+    animation: gslideInLeft 0 ease;
+}
+.gslideOutRight {
+    animation: gslideOutRight 0 ease;
+}
+.gslideInRight {
+    animation: gslideInRight 0 ease;
+}
+

@@ -11,5 +11,7 @@
 *.pdf
 *.mp4
 *.docx
+*.log
+*.tex
 
 **/*.quarto_ipynb

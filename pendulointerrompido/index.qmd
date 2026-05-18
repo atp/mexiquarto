@@ -3,7 +3,7 @@ title: "O Pêndulo Interrompido"
 lang: pt-BR
 lightbox:
   match: auto
-  effect: fade
+  effect: zoom
  
 format:
   html:
@@ -17,51 +17,60 @@ format:
     author: Lavínia e Ewout
     subtitle: Uma Atividade Científica Escolar
 
+css: lightbox.css
 ---
 
 ## Apresentação
 
-{{< lipsum 1 >}}
+{{< lipsum 2 >}}
 
-::: {.layout-ncols=2}
-{{< placeholder 300 >}}
-{{< placeholder 300 >}}
 
-:::
 ## Material e gravações
 
-### Vídeos
+As filmagens foram realizadas com uma câmera Sony Nex-FS700NH, numa taxa de 240 quadros por segundo, mantida sobre um tripé durante todas as filmagens.
+
+Após a gravação, extraíram-se os quadros a partir do vídeo, e agrupados em conjuntos para a análise do experimento.
+
+::: {#fig-material layout-ncol="2"}
+![A massa do pêndulo. **test**](https://atp.usp.br/dados/share/pi-massa.png){height="400"}
+
+![Massa](https://atp.usp.br/dados/share/balanca.jpg){height="400"}
+
+
+{{< lipsum 1 >}}
+:::
+
+### Vídeos de visão geral
+
+
+::: {layout-ncol=2}
+
+{{< video https://atp.usp.br/dados/share/pivid1.mp4 width=300 >}}
+
+{{< video https://atp.usp.br/dados/share/pivid2.mp4 >}}
+
+:::
+
+::: {.callout-note collapse="true" .column-margin}
+## Sobre paralax
+
+O eixo óptico das lentes da filmadora estava centrado e alineado com o pino do pêndulo interrompido. Deste modo, o paralax, que desloca a posição do centro da bolinha em relação ao quadriculado, deve se manter constante.
+:::
+
+### Exemplos das gravações
+
+| Vídeo 1 | Vídeo 2 |
+|------------------------------------|------------------------------------|
+| {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} | {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} |
+
+: Exemplos de vídeos
 
 ## Imagens
 
 ### Conjunto 1
 
-
-![Img1](imagens/take11_0001.jpg){group="conjunto1" width=20% .lightbox}
-![Img2](imagens/take11_0002.jpg){group="conjunto1" width=20% .lightbox}
-![Img3](imagens/take11_0003.jpg){group="conjunto1" width=20% .lightbox}
-![Img4](imagens/take11_0004.jpg){group="conjunto1" width=20% .lightbox}
-![Img5](imagens/take11_0005.jpg){group="conjunto1" width=20% .lightbox}
-![Img6](imagens/take11_0006.jpg){group="conjunto1" width=20% .lightbox}
-![Img7](imagens/take11_0007.jpg){group="conjunto1" width=20% .lightbox}
-![Img8](imagens/take11_0008.jpg){group="conjunto1" width=20% .lightbox}
-![Img9](imagens/take11_0009.jpg){group="conjunto1" width=20% .lightbox}
-![Img10](imagens/take11_0010.jpg){group="conjunto1" width=20% .lightbox}
-![Img11](imagens/take11_0011.jpg){group="conjunto1" width=20% .lightbox}
-![Img12](imagens/take11_0012.jpg){group="conjunto1" width=20% .lightbox}
- 
+![Img1](imagens/take11_0001.jpg){.lightbox group="conjunto1" width="20%"} ![Img2](imagens/take11_0002.jpg){.lightbox group="conjunto1" width="20%"} ![Img3](imagens/take11_0003.jpg){.lightbox group="conjunto1" width="20%"} ![Img4](imagens/take11_0004.jpg){.lightbox group="conjunto1" width="20%"} ![Img5](imagens/take11_0005.jpg){.lightbox group="conjunto1" width="20%"} ![Img6](imagens/take11_0006.jpg){.lightbox group="conjunto1" width="20%"} ![Img7](imagens/take11_0007.jpg){.lightbox group="conjunto1" width="20%"} ![Img8](imagens/take11_0008.jpg){.lightbox group="conjunto1" width="20%"} ![Img9](imagens/take11_0009.jpg){.lightbox group="conjunto1" width="20%"} ![Img10](imagens/take11_0010.jpg){.lightbox group="conjunto1" width="20%"} ![Img11](imagens/take11_0011.jpg){.lightbox group="conjunto1" width="20%"} ![Img12](imagens/take11_0012.jpg){.lightbox group="conjunto1" width="20%"}
 
 ### Conjunto 2
 
-![Img13](imagens/take11_0013.jpg){group="conjunto2" width=20% .lightbox}
-![Img14](imagens/take11_0014.jpg){group="conjunto2" width=20% .lightbox}
-![Img15](imagens/take11_0015.jpg){group="conjunto2" width=20% .lightbox}
-![Img16](imagens/take11_0016.jpg){group="conjunto2" width=20% .lightbox}
-![Img17](imagens/take11_0017.jpg){group="conjunto2" width=20% .lightbox}
-![Img18](imagens/take11_0018.jpg){group="conjunto2" width=20% .lightbox}
-![Img19](imagens/take11_0019.jpg){group="conjunto2" width=20% .lightbox}
-![Img20](imagens/take11_0020.jpg){group="conjunto2" width=20% .lightbox}
-![Img21](imagens/take11_0021.jpg){group="conjunto2" width=20% .lightbox}
-![Img22](imagens/take11_0022.jpg){group="conjunto2" width=20% .lightbox}
-![Img23](imagens/take11_0023.jpg){group="conjunto2" width=20% .lightbox}
-![Img24](imagens/take11_0024.jpg){group="conjunto2" width=20% .lightbox}
+![Img13](imagens/take11_0013.jpg){.lightbox group="conjunto2" width="20%"} ![Img14](imagens/take11_0014.jpg){.lightbox group="conjunto2" width="20%"} ![Img15](imagens/take11_0015.jpg){.lightbox group="conjunto2" width="20%"} ![Img16](imagens/take11_0016.jpg){.lightbox group="conjunto2" width="20%"} ![Img17](imagens/take11_0017.jpg){.lightbox group="conjunto2" width="20%"} ![Img18](imagens/take11_0018.jpg){.lightbox group="conjunto2" width="20%"} ![Img19](imagens/take11_0019.jpg){.lightbox group="conjunto2" width="20%"} ![Img20](imagens/take11_0020.jpg){.lightbox group="conjunto2" width="20%"} ![Img21](imagens/take11_0021.jpg){.lightbox group="conjunto2" width="20%"} ![Img22](imagens/take11_0022.jpg){.lightbox group="conjunto2" width="20%"} ![Img23](imagens/take11_0023.jpg){.lightbox group="conjunto2" width="20%"} ![Img24](imagens/take11_0024.jpg){.lightbox group="conjunto2" width="20%"}

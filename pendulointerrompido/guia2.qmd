@@ -34,6 +34,8 @@ O objetivo desta primeira parte é apresentar a situação-problema, destacando 
 
 {{< lipsum 2>}}
 
+<iframe src="https://atp.usp.br/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="958" height="219" frameborder="0" allowfullscreen="allowfullscreen" title="Pêndulo Interrompido 1"></iframe><script src="https://atp.usp.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ## Parte 2: dinâmica, forças e vínculo
 {{< lipsum 2>}}
 
