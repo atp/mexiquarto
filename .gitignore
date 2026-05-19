@@ -15,3 +15,5 @@
 *.tex
 
 **/*.quarto_ipynb
+
+/.luarc.json

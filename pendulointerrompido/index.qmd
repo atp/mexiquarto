@@ -27,9 +27,27 @@ css: lightbox.css
 
 ## Material e gravações
 
+::: {.panel-tabset}
+## Visão geral
+
+::: {#fig-geral layout-ncol=2}
+
+{{< video https://atp.usp.br/dados/share/pivid1.mp4 width=300 >}}
+
+{{< video https://atp.usp.br/dados/share/pivid2.mp4 >}}
+
+Visão aberta do arranjo experimental. Note que podemos soltar a massa do pêndulo de alturas diferentes em relação ao pino. 
+:::
+
+## Câmera
+
 As filmagens foram realizadas com uma câmera Sony Nex-FS700NH, numa taxa de 240 quadros por segundo, mantida sobre um tripé durante todas as filmagens.
 
 Após a gravação, extraíram-se os quadros a partir do vídeo, e agrupados em conjuntos para a análise do experimento.
+
+![A câmera Sony Nex-FS700H](imagens/Camera.jpg)
+
+## Detalhes do arranjo
 
 ::: {#fig-material layout-ncol="2"}
 ![A massa do pêndulo. **test**](https://atp.usp.br/dados/share/pi-massa.png){height="400"}
@@ -37,19 +55,17 @@ Após a gravação, extraíram-se os quadros a partir do vídeo, e agrupados em 
 ![Massa](https://atp.usp.br/dados/share/balanca.jpg){height="400"}
 
 
-{{< lipsum 1 >}}
 :::
 
-### Vídeos de visão geral
+## Exemplos das gravações
 
+| Vídeo 1 | Vídeo 2 |
+|------------------------------------|------------------------------------|
+| {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} | {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} |
 
-::: {layout-ncol=2}
-
-{{< video https://atp.usp.br/dados/share/pivid1.mp4 width=300 >}}
-
-{{< video https://atp.usp.br/dados/share/pivid2.mp4 >}}
 
 :::
+
 
 ::: {.callout-note collapse="true" .column-margin}
 ## Sobre paralax
@@ -57,13 +73,6 @@ Após a gravação, extraíram-se os quadros a partir do vídeo, e agrupados em 
 O eixo óptico das lentes da filmadora estava centrado e alineado com o pino do pêndulo interrompido. Deste modo, o paralax, que desloca a posição do centro da bolinha em relação ao quadriculado, deve se manter constante.
 :::
 
-### Exemplos das gravações
-
-| Vídeo 1 | Vídeo 2 |
-|------------------------------------|------------------------------------|
-| {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} | {{< video https://atp.usp.br/dados/share/overview.mp4 title="O Pêndulo Interrompido" >}} |
-
-: Exemplos de vídeos
 
 ## Imagens
 

@@ -1,0 +1,11 @@
+---
+title: "Shorty Example"
+---
+
+## Heading
+
+Teste do shortcode
+
+{{< shorty https://example.com >}}
+
+
