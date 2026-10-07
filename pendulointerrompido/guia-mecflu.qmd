@@ -1,0 +1,115 @@
+
+---
+title: "O Pêndulo Interrompido"
+lang: pt-BR
+lightbox:
+  match: auto
+  effect: fade
+ 
+format:
+  html:
+    other-links:
+      - text: Experimento e Imagens
+        href: .
+    toc: true
+    author: Lavínia e Ewout
+    subtitle: Uma Atividade Científica Escolar
+---
+
+## Apresentação do guia (versão MecFlu)
+
+Este é um guia associada à Atividade Científica Escolar "Pêndulo Interrompida", voltado para alunos de MecFlu do curso Licenciatura em Física. Neste guia assumimos que tem acesso ao [material, conjuntos de imagens e vídeos disponibilizados aqui](.).
+
+## Introdução
+Imagine uma esfera presa por uma corda a um ponto fixo (A). A esfera é
+elevada até uma determinada altura e, então, abandonada a partir do
+repouso.  Ao descer, a esfera passa pelo ponto mais baixo (B). Se
+colocarmos um obstáculo (C) próximo a esse ponto, a corda encontra o
+obstáculo durante o movimento. A partir desse instante, o obstáculo
+impede que a corda continue se movimentando livremente em torno do
+ponto (A). Com isso, a parte da corda que fica apoiada no pino passa a
+determinar um novo raio de movimento, fazendo com que a esfera
+continue sua trajetória em torno de um novo centro, associado ao ponto
+(C).
+
+
+
+::: {.column-margin .callout-note collapse="false"}
+## Motivação
+O objetivo desta primeira parte é apresentar a situação-problema, destacando algumas estratégias e conceitos necessários para avançar tranquilamente pela atividade. Vamos fazer alguns questionamentos e perguntas, afim de te encaminhar para a formulação de vários *modelos* para o pêndulo interrompido, do modelo formulado em linguágem do cotidiano até o modelo matemático que um físico atuante usaria.
+:::
+
+
+![](imagens/guia-mecflu/fig1.png)
+
+Apesar da mudança na trajetória, a esfera tende a retornar à mesma
+altura da qual foi solta, independentemente da presença do
+obstáculo. Entretanto, no caso em que o obstáculo está muito próximo
+do ponto mais baixo (B), a corda pode se apoiar ou se enrolar ao redor
+dele, modificando o raio da trajetória e, consequentemente, o
+movimento da esfera.
+
+Foi este o experimento de pensamento proposto por Galileu Galilei. Por
+meio dele, Galileu buscava investigar como a alteração da trajetória,
+provocada pela presença do obstáculo, afetaria o movimento da
+esfera. A questão central era compreender que, mesmo tendo sua
+trajetória modificada, a esfera ainda seria capaz de retornar à mesma
+altura da qual havia sido inicialmente solta.  Com os conhecimentos de
+física dos dias de hoje, é possível estudar a veracidade deste
+raciocínio? Como?
+
+Antes de fazer qualquer desenvolvimento matemático, assista aos vídeos
+da trajetória da esfera disponibilizados no site/em [link], e responda
+às perguntas abaixo – elas podem nos ajudar a começar a entender o
+movimento do pêndulo interrompido.
+
+1. De qual altura você acha que a esfera foi solta? Com base no que você chegou nessa resposta? (Ou, simplesmente, “Por que?”)
+1. Sem o obstáculo, a esfera retorna à altura de onde foi solta. Você acha que isso também acontece com a presença do obstáculo em sua trajetória? Por quê?
+1. Descreva, em palavras, como a esfera se comporta antes e depois de colidir com o obstáculo. Há regimes de movimento? Se sim, como é cada um deles? 
+
+## Criando um modelo
+
+Agora pensando mais rigorosamente no experimento proposto por Galileu
+e em como o conhecimento em Física hoje em dia nos permite estudá-lo,
+propus uma questão cuja resposta nos permite analisar teoricamente o
+movimento.
+
+Imagine a esfera como uma bolinha de massa m e raio r que está presa a
+um eixo fixo (A) por uma corda de massa desprezível e comprimento L. A
+bolinha é solta de uma altura h e, durante sua trajetória, a bolinha
+bate em um obstáculo (C), que está há uma distância d = L – R do eixo
+
+![](imagens/guia-mecflu/fig2.png)
+
+(a) Qual a expressão para a velocidade da bolinha no instante exatamente antes de bater no obstáculo? 
+(b) De qual altura a bolinha deve ser solta para que complete um loop? 
+(c) Descreva o que acontece quando a bolinha é solta de uma altura menor que a necessária para completar um loop.
+(d) Pensando numa situação em que a bolinha caia exatamente no obstáculo, responda às questões abaixo:
+
+I. Qual a velocidade no instante em que a corda perde a tensão?
+II. Qual o ângulo entre o eixo vertical e a corda neste instante?
+III. De qual altura a bolinha deve ser solta?
+
+## Análise das imagens
+
+om o aprofundamento teórico do problema pronto, vamos analisar mais detalhadamente cada passo dessa trajetória. Você já assistiu aos vídeos do movimento da esfera, agora vamos estudá-lo frame por frame. Em [link] abra o conjunto que lhe foi designado pelo professor e observe bem as imagens.
+
+Quais dados você tem disponíveis nelas?
+
+Quais informações você consegue obter com esses dados e como você pode “transformar” os dados nessas informações?
+
+Como essas informações vão te ajudar a achar a altura de que a esfera foi solta?
+
+Para quais valores você pode adotar incertezas? Por quê? Como vai calculá-las?
+
+De que forma a resolução da questão proposta pode guiar, ou ajudar, nesta análise?
+
+## Conlusões
+
+No fim das contas, a esfera é capaz de retornar à mesma altura da qual foi inicialmente solta?
+
+As medidas de massa e raio da esfera e comprimento do fio, junto de suas incertezas, estão disponíveis em [link]. Utilizando esses valores para responder à questão proposta, teremos os valores numéricos das grandezas pedidas. Assim como também temos valores numéricos obtidos a partir das imagens.
+
+Quais valores são teóricos e/ou experimentais referentes a este experimento? Por que?
+
+De que forma eles se relacionam?

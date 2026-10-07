@@ -14,11 +14,19 @@ format:
     toc: true
     author: Lavínia e Ewout
     subtitle: Uma Atividade Científica Escolar
-
 ---
 
+## Apresentação do guia (versão estudo dirigido)
 
-## GuiA Parte 1: conservação de energia mecânica
+Este é um guia associada à Atividade Científica Escolar "Pêndulo Interrompida", voltado para estudantes de Física cursando, tipicamente, o primeiro ou segundo ano de um curso universitário. Neste guia assumimos que tem acesso ao [material, conjuntos de imagens e vídeos disponibilizados aqui](.).
+
+## Guia Parte 1: conservação de energia mecânica
+
+::: {.column-margin .callout-note collapse="false"}
+## Motivação
+O objetivo desta primeira parte é apresentar a situação-problema, destacando algumas estratégias e conceitos necessários para avançar tranquilamente pela atividade. Vamos fazer alguns questionamentos e perguntas, afim de te encaminhar para a formulação de vários *modelos* para o pêndulo interrompido, do modelo formulado em linguágem do cotidiano até o modelo matemático que um físico atuante usaria.
+:::
+
 
 Assiste este vídeo:
 {{< video https://atp.usp.br/dados/share/overview.mp4
@@ -27,17 +35,57 @@ Assiste este vídeo:
     aspect-ratio="16x9" 
 >}}
 
-::: {.column-margin .callout-note collapse="false"}
-## Motivação
-O objetivo desta primeira parte é apresentar a situação-problema, destacando algumas estratégias e conceitos necessários para avançar tranquilamente pela atividade. 
-:::
+Vamos analisar o movimento do vídeo. O problema motivadora nesta primeira parte é: 
 
-{{< lipsum 2>}}
+> "determine a altura da onde a massa do pêndulo foi solta". 
+
+Antes de começar responder as perguntas, tente deixar explítico sua intuição sobre o movimento que viu no vídeo. A reflexão que aparece após escolher uma das alternativas faz sentido?
 
 <iframe src="https://atp.usp.br/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="958" height="219" frameborder="0" allowfullscreen="allowfullscreen" title="Pêndulo Interrompido 1"></iframe><script src="https://atp.usp.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+
+Agora siga respondendo as perguntas seguintes.
+
+### Pergunta 1: quais dados têm a sua disposição?
+Como vai se organizar para resolver o problema motivadora? Uma possibilidade é comeaçar fazer uma lista de dados que em princípio pode extrair do vídeo ou imagens.
+
+
+### Pergunta 2: quais grandezas pode construir a partir dos dados?
+Mas somente estes dados "brutos" não vão te ajudar para resolver o problema. Quais grandezas tipicamente são usadas por físicos para este tipo de problema em mecânica e como pode calcular estas grandezas com os dados à sua disposição?
+
+### Pergunta 3: quais grandezas vão ajudar?
+Qual das grandezas que pode calcular a partir dos dados no vídeo e na imagens vão te ajudar para responder ao problema motivadora? Descreva, informalmente, o raciocínio que está usando. 
+
+Mas a sua proposta é a única possível? Quais outras possibilidades existem, em princípio? Veja uma provocação para ajudar as reflexões:
+
+<iframe src="https://atp.usp.br/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="958" height="1420" frameborder="0" allowfullscreen="allowfullscreen" title="Pendulo Interrompido 2"></iframe><script src="https://atp.usp.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
+### Pergunta 4: como *formalizar* o seu modelo?
+Escreva agora em linguam matemático exatamente como vai determinar a altura de soltura. 
+
+
+### Pergunta 5: quais suposições está fazendo?
+XXX Conservação de energia, perdas de energia mecânica para outras formas (calor, som) são desprezíveis. O diâmetro do pino. 
+
+
+### Pergunta 6: refletir sobre as limitações dos dados
+Incertezas.
+
+
+
+
+
 ## Parte 2: dinâmica, forças e vínculo
-{{< lipsum 2>}}
+
+Em construção
+
+{{< lipsum 1>}}
+
+<iframe src="https://atp.usp.br/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="958" height="184" frameborder="0" allowfullscreen="allowfullscreen" title="Exemplo feito pela Lavinia"></iframe><script src="https://atp.usp.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Parte 3: a descrição do movimento
-{{< lipsum 2>}}
+
+Em construção
+{{< lipsum 1>}}

@@ -8,3 +8,5 @@ format:
 ---
 
 # Índice do site
+
+{{< lipsum 2 >}}

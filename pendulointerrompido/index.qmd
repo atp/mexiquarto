@@ -10,9 +10,11 @@ format:
     other-links:
       - text: Guia Ensino Médio
         href: guia1.html
-      - text: Guia USP
+      - text: Guia ED
         href: guia2.html
         icon: file
+      - text: Guia MecFlu
+        href: guia-mecflu.html
     toc: true
     author: Lavínia e Ewout
     subtitle: Uma Atividade Científica Escolar
@@ -22,10 +24,15 @@ css: lightbox.css
 
 ## Apresentação
 
-{{< lipsum 2 >}}
+O Pêndulo Interrompido é arranjo experimental originalmente concebido como experimento de pensamento pelo Galileu. No meio do caminho, o fio do pêndulo bate num pino, encurtando repentinamente o comprimento de $L$ para $R$. Para Galileu a finalidade deste arranjo imaginário era convencer seu interlocutor da razoabilidade de uma premissa tido como intuitiva: que a massa chega na mesma altura do que foi solta, mesmo mudando de repente de trajetória. Vemos aqui o início de um modo de pensar sobre a natureza que agora parece natural, em termos de princípios de conservação e idealizações, mas que na época do Galileu não eram nada óbvio. 
 
+Ainda mais interessante para nós, estudantes de física, é que o comportamento do pêndulo interrompido é surpreendentemente rico, permitindo análises em várias níveis de complexidade física e matemática. Nesta página há acesso à descrição do arranjo e os resultados (vídeos e conjuntos de imagens) de gravações feito com uma câmera de alta velocidade. 
+
+As gravações e imagens aqui podem ser usados livremente, por qualquer pessoa, ao modo que ela quiser. Porém, acreditamentos que a melhor forma de utilizar o material é por meio dos guias disponíveis nos links na barra lateral.
 
 ## Material e gravações
+
+
 
 ::: {.panel-tabset}
 ## Visão geral
@@ -58,6 +65,11 @@ Após a gravação, extraíram-se os quadros a partir do vídeo, e agrupados em 
 :::
 
 ## Exemplos das gravações
+::: {.callout-warning title="Em construção"}
+Note que os vídeos abaixo somente sirvam como *placeholder*, em breve disponibilizaremos as gravações definitivas.
+
+:::
+
 
 | Vídeo 1 | Vídeo 2 |
 |------------------------------------|------------------------------------|
@@ -76,6 +88,11 @@ O eixo óptico das lentes da filmadora estava centrado e alineado com o pino do 
 
 ## Imagens
 
+::: {.callout-warning title="Em construção"}
+Note que os conjuntos de imagens abaixo somente sirvam como *placeholder*, em breve disponibilizaremos os conjuntos definitivos.
+
+:::
+
 ### Conjunto 1
 
 ![Img1](imagens/take11_0001.jpg){.lightbox group="conjunto1" width="20%"} ![Img2](imagens/take11_0002.jpg){.lightbox group="conjunto1" width="20%"} ![Img3](imagens/take11_0003.jpg){.lightbox group="conjunto1" width="20%"} ![Img4](imagens/take11_0004.jpg){.lightbox group="conjunto1" width="20%"} ![Img5](imagens/take11_0005.jpg){.lightbox group="conjunto1" width="20%"} ![Img6](imagens/take11_0006.jpg){.lightbox group="conjunto1" width="20%"} ![Img7](imagens/take11_0007.jpg){.lightbox group="conjunto1" width="20%"} ![Img8](imagens/take11_0008.jpg){.lightbox group="conjunto1" width="20%"} ![Img9](imagens/take11_0009.jpg){.lightbox group="conjunto1" width="20%"} ![Img10](imagens/take11_0010.jpg){.lightbox group="conjunto1" width="20%"} ![Img11](imagens/take11_0011.jpg){.lightbox group="conjunto1" width="20%"} ![Img12](imagens/take11_0012.jpg){.lightbox group="conjunto1" width="20%"}
@@ -83,3 +100,4 @@ O eixo óptico das lentes da filmadora estava centrado e alineado com o pino do 
 ### Conjunto 2
 
 ![Img13](imagens/take11_0013.jpg){.lightbox group="conjunto2" width="20%"} ![Img14](imagens/take11_0014.jpg){.lightbox group="conjunto2" width="20%"} ![Img15](imagens/take11_0015.jpg){.lightbox group="conjunto2" width="20%"} ![Img16](imagens/take11_0016.jpg){.lightbox group="conjunto2" width="20%"} ![Img17](imagens/take11_0017.jpg){.lightbox group="conjunto2" width="20%"} ![Img18](imagens/take11_0018.jpg){.lightbox group="conjunto2" width="20%"} ![Img19](imagens/take11_0019.jpg){.lightbox group="conjunto2" width="20%"} ![Img20](imagens/take11_0020.jpg){.lightbox group="conjunto2" width="20%"} ![Img21](imagens/take11_0021.jpg){.lightbox group="conjunto2" width="20%"} ![Img22](imagens/take11_0022.jpg){.lightbox group="conjunto2" width="20%"} ![Img23](imagens/take11_0023.jpg){.lightbox group="conjunto2" width="20%"} ![Img24](imagens/take11_0024.jpg){.lightbox group="conjunto2" width="20%"}
+
